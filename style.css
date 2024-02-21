@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.container{
+    position: relative;
+    margin: 80px 30%;
+    width: 30%;
+    color: rgb(153, 142, 216);
+    padding: 20px;
+    align-items: center;
+    box-shadow: 3px 5px 8px 10px #c7c5c5;
+}
+
+.title{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.underline{
+    border-style: solid;
+    margin-left: 36%;
+    width: 100px;
+}
+
+.img-container img{
+    /* position: absolute; */
+    margin-top: 20px;
+    border-radius: 80%;
+    margin-left: 27%;
+}
+
+#author{
+    text-align: center;
+}
+
+#job{
+    text-align: center;
+}
+
+#info{
+    text-align: center;
+}
+
+.button-container{
+    text-align: center;
+}
+
+.prev-btn{
+    border: none;
+    color: blue;
+    cursor: pointer;
+}
+
+.next-btn{
+    border: none;
+    color: blue;
+    cursor: pointer;
+}
+
+.random-btn{
+    margin-top: 20px;
+    margin-left: 39%;
+    border-radius: 30px;
+    border-style: none;
+    color: blue;
+    cursor: pointer;
+    font-size: 1rem;
+}
